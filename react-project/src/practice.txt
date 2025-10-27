@@ -1,0 +1,5 @@
+Components in react 
+
+1 --> Functional Components
+2 --> Class Components //It is rarely used.
+
